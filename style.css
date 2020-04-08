@@ -1,0 +1,107 @@
+header{
+  margin-top:0px;
+ background-image: url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+  width:90%;
+  height:400px;
+   position: absolute;
+  top:0px;
+  left:5%;
+  background-position:center;
+  margin:auto;
+  margin-top:0px;
+  padding-top:0px;
+  background-size:cover;
+  
+}
+.title{
+  position:relative;
+  top:45%;
+  left:25%;
+  margin:0px;
+  padding:0px;
+  width:50%;
+  font-family: 'Abril Fatface', cursive;
+  
+}
+.bl{
+  font-size:55px;
+  margin-top:0px;
+  
+}
+.sl{
+  margin-bottom:0px;
+  font-size:36px;
+  
+}
+
+
+main{  font-family: 'Baloo Thambi 2', cursive;
+  position: relative;
+  top: 450px;
+  width: 750px;
+  margin:auto;
+  font-size: 19px;
+  display:block;
+  justify-content:center;
+  
+  
+}
+.bold{
+  font-family: 'Baloo Thambi 2', bold;
+}
+ul{list-style-type: square;
+}
+li{
+ padding-bottom:0px;
+  padding-top:0px;
+  margin-bottom:0px;
+  margin-top:0px;  
+}
+blockquote{
+  position:relative;
+  top:19px;
+  justify-content: center;
+  margin:auto;
+  left: -10px;;
+  font-size:50px;
+  width:800px;
+  background-color:#484a4a;
+  line-height:70px;
+font-family: 'Abril Fatface', cursive;
+  
+}
+.xper{
+  margin-top:55px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:26px;
+  
+}
+.sente{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top:55px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+footer{
+font-family: 'Baloo Thambi 2', cursive;
+  position: relative;
+  top: 600px;
+  width: 750px;
+  margin:auto;
+  font-size: 19px;
+  display:block;
+  
+  
+}
+
+.line{
+  background-color: black;
+  width:750px;
+  height: 4px;
+  position:relative;
+   display: block;
+  justify-content:center;
+ 
+  
+}
